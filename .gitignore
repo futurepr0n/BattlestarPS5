@@ -1,0 +1,11 @@
+/dist/
+/build-ps5.log
+__pycache__/
+*.pyc
+/ps5/audio-preview/
+/ps5/validation.json
+# Reference media are not published until redistribution rights are resolved.
+/ps5/assets/*
+!/ps5/assets/README.md
+/vipersm.png
+/bsg_title.png

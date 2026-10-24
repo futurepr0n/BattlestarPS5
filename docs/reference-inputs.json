@@ -1,0 +1,14 @@
+﻿{
+    "url":  "https://github.com/futurepr0n/BattleStar-OSLib",
+    "commit":  "d627d007e4d521b9b89cf38a13051c4bf9851ba9",
+    "asset_sha256":  {
+                         "battlestar.png":  "5f67d9bba0eb64570c4f6377b7e80764e54036cb25a7ce6da16d7793b6a38c6a",
+                         "chain.png":  "ed11f009e563b225a40a4ad3f67cbb84814a0367a47fcf4bf2726dbfcc8cfb3d",
+                         "enemychain.PNG":  "a05eec80b3bf432b071dc90d06eef7719583d9eab62a9116cace92f58d0635ac",
+                         "mrdeath_-_12th_moon_rising.xm":  "553ff44f8ea8a41952ec7b9821669351fac48706967b229e6f5e8dda9eed3536",
+                         "raidersm.png":  "c30d7127f683fb7e0181d167fa17d6a36f084775a22c51f9548df4793387ab81",
+                         "starfield_one.png":  "4bb2fe004b066a2a300ae75a2d8cd6587ef7f74552d9e411c7da307ff45cdaa6",
+                         "theme_battlestar_galactica.mp3":  "d4417e699c51b5c4c11c80bc3109669d478535aeface357221ed854fe0c1e7a3",
+                         "ViperFiring.wav":  "f653f063e440e5e274c2589148b3ecfa0d2ca0a481950c2d155f33ff91d85ebf"
+                     }
+}
